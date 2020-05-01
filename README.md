@@ -16,7 +16,7 @@
 
 [源代码](五子棋游戏.c)
 
-[Win 程序](五子棋游戏.exe)
+[Win 程序](Excutables/五子棋游戏.exe)
 
 # Gobang
 
@@ -24,4 +24,4 @@ Programmed by C under Windows.
 
 [Source Code](五子棋游戏.c)
 
-[Win Program](五子棋游戏.exe)
+[Win Program](Excutables/五子棋游戏.exe)
